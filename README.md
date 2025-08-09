@@ -17,12 +17,12 @@ The above package is very standard.
 
 ## Flowchart of the HB-AD method
 
-![Flowchart of the HB-AD method](./framework.png)
+![Flowchart of the HB-AD method](https://github.com/shuizidesu/hb-ad/tree/main/images/framework.png)
 
 ## Provided examples
 
-![Provided examples](./examples.png)
+![Provided examples](https://github.com/shuizidesu/hb-ad/tree/main/images/examples.png)
 
 ## Run a custom example
 
-If you want to run a custom example, please rewrite the class about the system (refer to the class 'RotorSFD' in 'example_rotor_SFD.py' or the the class 'AeroEngineSystem' in 'example_aero_engine.py' ). The rest of the code requires almost no modification and does not require any manual derivation of partial derivatives.
+If you want to run a custom example, please rewrite the class about the system (refer to the class 'RotorSFD' in 'example_rotor_SFD.py' or the class 'AeroEngineSystem' in 'example_aero_engine.py' ). The rest of the code requires almost no modification and does not require any manual derivation of partial derivatives.
