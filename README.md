@@ -17,11 +17,11 @@ The above package is very standard.
 
 ## Flowchart of the HB-AD method
 
-![Flowchart of the HB-AD method](https://github.com/shuizidesu/hb-ad/tree/main/images/framework.png)
+![Flowchart of the HB-AD method](https://github.com/shuizidesu/hb-ad/blob/main/images/framework.png)
 
 ## Provided examples
 
-![Provided examples](https://github.com/shuizidesu/hb-ad/tree/main/images/examples.png)
+![Provided examples](https://github.com/shuizidesu/hb-ad/blob/main/images/examples.png)
 
 ## Run a custom example
 
